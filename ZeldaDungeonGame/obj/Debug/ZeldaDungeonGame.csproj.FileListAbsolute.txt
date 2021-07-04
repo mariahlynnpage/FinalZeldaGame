@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\obj\Debug\ZeldaDungeonGame.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\obj\Debug\ZeldaDungeonGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\bin\Debug\ZeldaDungeonGame.exe.config
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\bin\Debug\ZeldaDungeonGame.exe
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\bin\Debug\ZeldaDungeonGame.pdb
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\obj\Debug\ZeldaDungeonGame.exe
+C:\ElevenFiftyProjects\ZeldaDungeonGame\ZeldaDungeonGame\obj\Debug\ZeldaDungeonGame.pdb
